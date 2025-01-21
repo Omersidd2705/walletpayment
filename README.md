@@ -1,4 +1,9 @@
+
 # Setup Instructions
+
+https://github.com/user-attachments/assets/d054abb8-5318-4425-9b94-74eecda9e9cd
+
+
 
 1. **Clone the Repository**
 
